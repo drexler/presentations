@@ -15,9 +15,12 @@
 
 ---?code=src/ts/account.ts&lang=typescript&title=Account Definition
 
-@[1,2-22](Account properties)
-@[1,24-26](Account constructor)
+@[1,24-26](Account constructor - note the Partial keyword)
 @[17](List of clients managed by the account)
+
+---?code=src/ts/account-sync.ts&lang=typescript&title=Account Sync
+
+@[1,36-41]( *sort()* == black ice!)
 
 ---?image=assets/image/maarten_deckers.jpg
 
