@@ -15,9 +15,8 @@
 
 ---?code=src/ts/account.ts&lang=typescript&title=Account Definition
 
-@[1,26](Account properties & constructor)
-@[17-17](List of clients managed by the account)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
+@[1,4](Account properties & constructor)
+@[9](List of clients managed by the account)
 
 ---?image=assets/image/maarten_deckers.jpg
 
