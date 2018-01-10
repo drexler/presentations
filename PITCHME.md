@@ -28,7 +28,7 @@
 
 - Staging | 
 
----?image=assets/image/gitpitch-audience.jpg
+---?image=assets/image/maarten_deckers.jpg
 
 
 ### Questions?
