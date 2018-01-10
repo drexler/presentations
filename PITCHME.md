@@ -22,13 +22,13 @@
 
 @[1,36-41]( *sort()* == black ice!)
 
----?image=assets/image/maarten_deckers.jpg
+---?image=assets/image/lukas_blazek.jpg
 
 ## ...could it have been prevented?...
 
 - Staging | 
 
----?image=assets/image/maarten_deckers.jpg
+---?image=assets/image/gitpitch-audience.jpg
 
 
 ### Questions?
