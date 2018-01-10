@@ -26,10 +26,11 @@
 
 ## ...could it have been prevented? if not...
 
-- Code author: *Assumptions is the mother of all...*  | 
-- Treating the pre-production staging tier as *production* (if something goes kaput, file a bug asap) |
+- Assumptions is the mother of all...  | 
+- Treating the pre-production staging tier as production (if something goes kaput, file a bug asap) |
 - Timeless question - how close is the pre-production test data mirroring that of real world data ? |
-- Error rate monitoring & alerts. (Single Sign-on Team - DougieFresh + Ol'Flo + Gee) |
+- Error rate monitoring & alerts. |
+- (Single Sign-on Team - DougieFresh + Ol'Flo + Gee) |
 
 ---?image=assets/image/gitpitch-audience.jpg
 
