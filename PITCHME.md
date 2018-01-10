@@ -10,20 +10,21 @@
 
 <br>
 
-- Plug-Ugly - Login failure for SBAdmin-stereotyped SSO accounts (PF-1251) |
+- Login failure for SBAdmin-stereotyped SSO accounts (PF-1251) |
 - API support for updating SSO tenants (PF-731) |
 
----?code=src/go/server.go&lang=golang&title=Golang File
+---?code=src/ts/account.ts&lang=typescript&title=Account Definition
 
-@[1,3-6](Present code found within any Git repo source file.)
-@[8-18](Without ever leaving your slideshow.)
+@[1,26](Account properties & constructor)
+@[17-17](List of clients managed by the account)
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 ---?image=assets/image/maarten_deckers.jpg
 
-### ...could it have been prevented?...
+## ...could it have been prevented?...
 
 - Staging | 
+
 ---?image=assets/image/gitpitch-audience.jpg
 
 
