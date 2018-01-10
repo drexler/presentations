@@ -32,6 +32,11 @@
 - Error rate monitoring & alerts. |
 - (Single Sign-on Nerds: DougieFresh + Ol'Flo + Gee) |
 
+---?code=src/ts/tenant.ts&lang=typescript&title=Tenant Definition
+
+@[2](Self-referential link)
+@[1,10-11](Audit properties)
+
 ---?image=assets/image/gitpitch-audience.jpg
 
 
