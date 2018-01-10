@@ -1,0 +1,14 @@
+service: isystems-iam
+
+provider:
+  name: aws
+  versionFunctions: false
+  runtime: nodejs6.10
+  memorySize: 128
+  environment: #environment variables for AWS Lambda
+    awsRegion: ${file(${opt:variables}):awsRegion}
+    ssoApplicationId: ${file(${opt:variables}):ssoApplicationId}
+    ssoTenantId: ${file(${opt:variables}):ssoTenantId}
+    tokenIssuer: ${file(${opt:variables}):tokenIssuer}
+    logLevel: info
+    ssoSiteUrl: ${file(${opt:variables}):ssoSiteUrl}

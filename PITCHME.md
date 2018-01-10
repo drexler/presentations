@@ -27,7 +27,7 @@
 
 ## ...could it have been prevented? if not...
 
-- Assumptions is the mother of all...  | 
+- Assumption is the mother of all...  | 
 - Treating the pre-production staging tier as production (if something goes kaput, file a bug asap) |
 - Timeless question - how close is the pre-production test data mirroring that of real world data ? |
 - Canary deployments with error rate monitoring & alerts. |
@@ -37,6 +37,10 @@
 
 @[2](Self-referential link)
 @[1,10-11](Audit properties)
+
+---?code=src/ts/serverless.yml&lang=yml&title=Lambda Options
+
+@[5](Versioning disabled by default)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
