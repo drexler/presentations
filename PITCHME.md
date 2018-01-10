@@ -15,8 +15,9 @@
 
 ---?code=src/ts/account.ts&lang=typescript&title=Account Definition
 
-@[1,4](Account properties & constructor)
-@[9](List of clients managed by the account)
+@[1,2-22](Account properties)
+@[1,24-26](Account constructor)
+@[17](List of clients managed by the account)
 
 ---?image=assets/image/maarten_deckers.jpg
 
