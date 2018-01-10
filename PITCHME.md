@@ -2,7 +2,8 @@
 
 # Orion
 
-##### 2017 Q4 Sprint 6 Demo (drexler)
+### 2017 Q4 Sprint 6 Demo 
+####   (drexler)
 
 ---?image=assets/image/lukas_blazek.jpg
 
