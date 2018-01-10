@@ -24,9 +24,12 @@
 
 ---?image=assets/image/lukas_blazek.jpg
 
-## ...could it have been prevented?...
+## ...could it have been prevented? if not...
 
-- Staging | 
+- *Assumptions is the mother of all...* (Code author) | 
+- Treating the pre-production staging tier as *production* (if something goes kaput, file a bug asap)|
+  - Timeless question - how close is the pre-production test data mirroring that of the *real world* ?
+- Error rate monitoring & alerts. (Single Sign-on Team - DougieFresh & Ol'Flo + crew) |
 
 ---?image=assets/image/gitpitch-audience.jpg
 
